@@ -1,3 +1,4 @@
+# -- [[ Settings ]] --
 getgenv().Main = {
     Title = "",
     ThumbnailURL = "",
